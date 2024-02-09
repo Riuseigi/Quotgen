@@ -19,3 +19,5 @@ QuotGen is a simple web application that generates random quotes sourced from th
 By completing these tasks, QuotGen will provide users with a seamless experience, delivering thought-provoking quotes at the click of a button.
 
 Feel free to customize and enhance QuotGen further to meet your specific requirements!
+
+To see live Demo = https://codepen.io/riuseigi/pen/xxBammw
